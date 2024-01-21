@@ -1,4 +1,4 @@
-Sitemap: https://main--fanciful-youtiao-d289c1.netlify.app/sitemap.xml
+Sitemap: https://fanciful-youtiao-d289c1.netlify.app/sitemap.xml
 
 User-agent: *
 Disallow:
