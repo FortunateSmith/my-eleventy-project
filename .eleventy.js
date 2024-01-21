@@ -5,7 +5,7 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      input: 'src',
+      input: 'src/_includes',
       output: '_site'
     }
   };
